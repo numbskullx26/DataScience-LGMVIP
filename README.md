@@ -4,7 +4,7 @@
 
  
  
-                                                      (Beginner Level Task)
+                                                    (Beginner Level Task)
                                                  
    ### Task 4-Image to Pencil Sketch with Python
 
@@ -17,7 +17,14 @@
    - Then we can finally create the pencil sketch by mixing the grayscale image with the inverted blurry image. This can be done by dividing the grayscale image by the inverted blurry image. Since images are just arrays, we can easily do this programmatically using the divide function from the cv2 library in Python.
 
    - Dataset: use your own images.
-                                                 
-                                                 
-                                         
+                                           
+                                                  (Intermediate Level Task)                                       
+                                                   
+                                                
+   ### Task 6 - Prediction using Decision Tree  Algorithm 
+
+   - Create the Decision Tree classifier and visualize it graphically. 
+
+   - The purpose is if we feed any new data to this classifier, it would be able to  predict the right class accordingly.
  
+   - Dataset : https://bit.ly/3kXTdox
