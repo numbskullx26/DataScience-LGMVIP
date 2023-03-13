@@ -21,11 +21,15 @@
                                                   (Intermediate Level Task)     
                                                   
                                                   
-   ### Task 5- Exploratory Data Analysis - Terrorism                                            
+   ### Task 5- Exploratory Data Analysis - Terrorism     
+   
+   - Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’. 
+   
+   - As a security/defense analyst, try to find out the hot zone of terrorism. 
+   
+   - What all security issues and insights you can derive by EDA?
                                                   
-                                                  
-            
-                                                   
+             
                                                 
    ### Task 6 - Prediction using Decision Tree  Algorithm 
 
