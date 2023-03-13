@@ -18,7 +18,13 @@
 
    - Dataset: use your own images.
                                            
-                                                  (Intermediate Level Task)                                       
+                                                  (Intermediate Level Task)     
+                                                  
+                                                  
+   ### Task 5- Exploratory Data Analysis - Terrorism                                            
+                                                  
+                                                  
+            
                                                    
                                                 
    ### Task 6 - Prediction using Decision Tree  Algorithm 
