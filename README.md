@@ -19,6 +19,7 @@
    - Dataset: use your own images.
 
    <hr/>
+   <br/>
                                            
                                                   (Intermediate Level Task)     
                                                   
@@ -37,7 +38,7 @@
    - Dataset: https://bit.ly/2TK5Xn5
                                                   
   <hr/>
-             
+  <br/>     
                                                 
    ### Task 6 - Prediction using Decision Tree  Algorithm 
 
